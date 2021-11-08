@@ -1,0 +1,59 @@
+* {
+    font-family: 'Ruda', sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    /* background-color: #98c1d9; */
+    background-color: #e0fbfc;
+}
+
+.profile {
+    display: inline;
+}
+
+header {
+    position: relative;
+    left: 40%;
+    top: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+#about-me-section {
+    margin-bottom: 30px;
+}
+
+#my-image {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 10px;
+}
+
+#name {
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+    font-style: italic;
+}
+
+#current-position {
+    position: relative;
+    right: 80px;
+    bottom: 15px;
+    color: rgb(181, 182, 193);
+    font-style: italic;
+}
+
+#about-me {
+    text-align: center;   
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+}
