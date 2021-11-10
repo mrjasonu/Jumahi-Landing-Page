@@ -77,7 +77,7 @@ a {
     margin: 10px;
 }
 #tech-stack .stack:hover {
-    font-style: italic;
+    font-size: larger;
 }
 #tech-stack .stack img {
     width: 150px;
