@@ -76,9 +76,11 @@ a {
     border-radius: 10px;
     margin: 10px;
 }
+
 #tech-stack .stack:hover {
     font-size: larger;
 }
+
 #tech-stack .stack img {
     width: 150px;
     height: 150px;
