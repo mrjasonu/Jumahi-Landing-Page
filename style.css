@@ -58,6 +58,35 @@ a {
     text-decoration: none;
 }
 
+#tech-stack {
+    position: relative;
+    left: 150px;
+}
+#tech-stack .stack h3 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+#tech-stack .stack {
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    /* background-color: #ee6c4d; */
+    background-color: #3d58a0;
+    border-radius: 10px;
+    margin: 10px;
+}
+#tech-stack .stack:hover {
+    font-style: italic;
+}
+#tech-stack .stack img {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 23px;
+    bottom: 10px;
+}
+
 #socials h3 {
     font-size: medium;
     text-align: center;
@@ -74,3 +103,4 @@ a {
     width: 30px;
     height: 30px;
 }
+
