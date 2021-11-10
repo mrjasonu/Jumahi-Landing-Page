@@ -4,7 +4,6 @@
 }
 
 html {
-    /* background-color: #98c1d9; */
     background-color: #e0fbfc;
 }
 
@@ -50,7 +49,7 @@ header {
 }
 
 #about-me {
-    text-align: center;   
+    text-align: center;
 }
 
 a {
@@ -62,11 +61,13 @@ a {
     position: relative;
     left: 150px;
 }
+
 #tech-stack .stack h3 {
     text-align: center;
     padding-top: 10px;
     color: white;
 }
+
 #tech-stack .stack {
     display: inline-block;
     height: 300px;
@@ -105,4 +106,3 @@ a {
     width: 30px;
     height: 30px;
 }
-
